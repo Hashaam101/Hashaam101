@@ -17,14 +17,16 @@
 
   <br/><br/>
 
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hashaam101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hashaam101&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashaam101&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashaam101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   </a>
 
 </div>
 
 <br/>
 <div align="center">
-  <img src="https://github.com/Hashaam101/Hashaam101/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Hashaam101/Hashaam101/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
